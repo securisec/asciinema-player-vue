@@ -1,4 +1,4 @@
-import AsciinemaPlayer from "./components/asciinema-player";
+import AsciinemaPlayer from "./components/asciinema-player.vue";
 
 function install(Vue) {
   Vue.component(AsciinemaPlayer.name, AsciinemaPlayer);
